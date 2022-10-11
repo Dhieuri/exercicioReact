@@ -9,7 +9,8 @@ function App() {
   return (
     <div className="tela-inteira">
         <header>
-            <h1>LabeTube</h1>
+            <h1>LabeTubes</h1>
+            
             <input type="text" placeholder="Busca" id="campoDeBusca"/>
         </header>
 
